@@ -9,7 +9,6 @@ export const About = () => {
       <h1 className="text-[3vw] leading-[2.8vw] font-medium tracking-tighter">
       Hi, I'm Manish Patel. I hold a Master's degree in Computer Applications, which gave me a strong foundation in technology and problem-solving. After completing my degree, I pursued a specialized course in UI/UX design to combine my technical expertise with creative design skills. Today, I create user-centered designs that are not only visually appealing but also functional and intuitive.
       </h1>
-      
 
       {/* Content Section */}
       <div className="w-full  border-2 border-[#9aba28] mt-10 p-5 flex flex-wrap rounded-lg">
