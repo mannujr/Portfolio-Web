@@ -15,7 +15,6 @@ export const About = () => {
         {/* Left Section: Text and Button */}
         <div className="w-full md:w-1/2 p-5">
           <h1 className="text-2xl leading-7 font-semibold">Check out my Behance Profile</h1>
-
           <button
             onMouseEnter={() => setSmallDiv("w-full h-14 right-0")}
             onMouseLeave={() => setSmallDiv("w-3 h-3 right-2")}
