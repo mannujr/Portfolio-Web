@@ -8,8 +8,8 @@ export const Navbar = () => {
       <div className="w-full flex h-16 px-2 justify-between items-center ">
         {/* Logo */}
         <div className="logo flex flex-col">
-          <h1 className="font-semibold">MANNU</h1>
           <span className="text-xl font-semibold">UI/UX</span>
+          <h1 className="font-semibold">MANNU</h1>
         </div>
 
         {/* Menu Items */}
