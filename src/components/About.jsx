@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import behanceProfile from "../assets/behanceProfile.png";
+import behanceProfile from "src/assets/behanceProfile.png";
 
 export const About = () => {
   const [smallDiv, setSmallDiv] = useState("w-3 h-3 right-2");
